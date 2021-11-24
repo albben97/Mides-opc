@@ -9,7 +9,7 @@ Requirements:
 2. [Colcon](https://colcon.readthedocs.io/en/released/user/installation.html)
 3. [Rust](https://rustup.rs/)
 4. [NuXmv](https://nuxmv.fbk.eu)
-5. llvm and clang(https://rust-lang.github.io/rust-bindgen/requirements.html#clang)
+5. [llvm and clang](https://rust-lang.github.io/rust-bindgen/requirements.html#clang)
 6. [lark](https://pypi.org/project/lark/)
 7. [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) 
 8. [opcua](https://github.com/FreeOpcUa/opcua-asyncio)
