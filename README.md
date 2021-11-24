@@ -37,7 +37,7 @@ Install
 
 To rebuild the generated Rust messages, you can run:
 ```
-colcon build --cmake-args -DCARGO_CLEAN=ON --packages-skip-by-dep sp-rust-ui
+colcon build --cmake-args -DCARGO_CLEAN=ON
 ```
 
 __TODO:__ Look over all commands for running. How to setup server?
@@ -47,7 +47,6 @@ To launch the opc server enter opc_testing and run:
 ```
 python3 server-minimal.py
 ```
-
 
 To launch the simulation run:
 ```
