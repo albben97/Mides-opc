@@ -10,10 +10,10 @@ Requirements:
 3. [Rust](https://rustup.rs/)
 4. [NuXmv](https://nuxmv.fbk.eu)
 5. llvm and clang(https://rust-lang.github.io/rust-bindgen/requirements.html#clang)
-6. [lark] (https://pypi.org/project/lark/)
-7. [cargo] (https://doc.rust-lang.org/cargo/getting-started/installation.html) 
-8. [opcua] (https://github.com/FreeOpcUa/opcua-asyncio)
-9. [sbt] (https://www.scala-sbt.org/download.html)
+6. [lark](https://pypi.org/project/lark/)
+7. [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) 
+8. [opcua](https://github.com/FreeOpcUa/opcua-asyncio)
+9. [sbt](https://www.scala-sbt.org/download.html)
 
 Make sure NuXmv is extracted in the working directory. There is no installation other than extracting the zip-file.
 
