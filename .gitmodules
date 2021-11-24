@@ -1,0 +1,13 @@
+[submodule "sp_msgs"]
+	path = sp_msgs
+	url = git@github.com:sequenceplanner/sp_msgs.git
+[submodule "sp-ros"]
+	path = sp-ros
+	url = git@github.com:sequenceplanner/sp-ros.git
+[submodule "MIDES"]
+	path = MIDES
+	url = git@github.com:ashfaqfarooqui/MIDES.git
+[submodule "dorna_example"]
+	path = dorna_example
+	url = git@github.com:sequenceplanner/dorna_example.git
+	branch = state_based
