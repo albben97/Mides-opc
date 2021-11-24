@@ -11,3 +11,6 @@
 	path = dorna_example
 	url = git@github.com:sequenceplanner/dorna_example.git
 	branch = state_based
+[submodule "opcua-asyncio"]
+	path = opcua-asyncio
+	url = git@github.com:FreeOpcUa/opcua-asyncio.git
