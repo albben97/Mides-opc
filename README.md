@@ -57,3 +57,8 @@ And to run MIDES use:
 ```
 sbt mides/run
 ```
+
+Useful tools:
+-----------------
+[prosysopc, for visualizing opc](https://www.prosysopc.com/products/opc-ua-browser/)
+
