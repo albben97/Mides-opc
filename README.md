@@ -52,7 +52,7 @@ Running:
 Open a new terminal window and start the OPC server:
 ```
 cd opcua-asyncio/examples
-python3 server-minimal_copy.py
+python3 server-minimal.py
 ```
 
 (Optional) Open a new terminal window and start the UaBrowser
