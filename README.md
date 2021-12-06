@@ -18,7 +18,7 @@ Requirements:
 
 Make sure NuXmv is extracted in the working directory. There is no installation other than extracting the zip-file.
 UaBrowser is a helpful tool to track the value of the variables on the OPC server.
-__TODO:__ Check in another repo if this is working as intended.
+
 Building:
 -----------------
 Source the project
