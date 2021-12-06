@@ -46,7 +46,6 @@ To rebuild the generated Rust messages, you can run:
 colcon build --cmake-args -DCARGO_CLEAN=ON
 ```
 
-__TODO:__ Look over all commands for running. How to setup server?
 Running:
 -----------------
 
